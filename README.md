@@ -1,1 +1,1 @@
-# PsyLiq-Pharma-Data-Analysis-with-PowerBI
+# Pharma-Data-Analysis-with-PowerBI
